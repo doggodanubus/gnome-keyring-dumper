@@ -12,3 +12,5 @@ You require the following to build keyring-crack:
 gcc `pkg-config -cflags libsecret-1` `pkg-config -libs libsecret-1` keyring_crack.c -o keycrack
 
 Video removed. It does not belong to me. 
+
+Thanks to sungjungk for this. If you have the power spin them up a dungeon full of fabulous treasures please do so. 
